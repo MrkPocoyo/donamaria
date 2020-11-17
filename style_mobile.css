@@ -2,17 +2,15 @@
     width: 100%;
     background-color: #ffffff;
     margin: -10px auto 0px auto;
-    /*box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.9);*/
+    /box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.9);/
     padding: 10px;
 
-    
-    
 
 }
 
 img#along_01{
     width: 500px;
-    margin-top: 700px;
+    margin-top: 100px;
 
     display: block;
     margin-left: auto;
@@ -21,7 +19,7 @@ img#along_01{
 
 img#along_02{
     width: 500px;
-    margin-top: 700px;
+    margin-top: 200px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -33,7 +31,7 @@ img#along_02{
 
 
 
-/*----------------CABECALHO-------------------*/
+/----------------CABECALHO-------------------/
 
 .logo{
 
@@ -189,10 +187,10 @@ video#demonstracao:hover {
 
 
 
-/*----------RODAPE----------*/
+/----------RODAPE----------/
 
 .rodape{
-    border-top: 7px black solid;
+    border-top: 7px #f4b3c9 solid;
     margin-top: -250px;
 }
 
@@ -271,6 +269,6 @@ h3#contatos-rodape{
     font-family: sans-serif;
     color: black;
     font-size: 30pt;
-    text-align: center;
+    margin-left: 50px;
         
 }
